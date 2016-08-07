@@ -1,0 +1,53 @@
+assign 1 to global variable a
+assign 2 to global variable b
+next line will print int global variable a
+1
+next line will print int global variable b
+2
+assign a+b to c
+next line will print global variable c
+3
+assign a-b to c
+next line will print global variable c
+-1
+assign 8 to global variable d
+assign 4 to global variable e
+assign d*e to global variable f
+next line will printf f
+32
+assign d/e to global variable f
+next line will printf f
+2
+next line will show (true)simple if statement
+This line is true
+next line will not show anything because the next statement is false
+assing 1 to local variable a
+assing 2 to local variable b
+the next line will show local variable a
+1
+the next line will show local variable b
+2
+the next line show local variable c which is a+b
+3
+the next line show local variable c which is a-b
+-1
+assing 2 to local variable d
+assing 4 to local variable e
+the next line will show local variable d
+2
+the next line will show local variable e
+4
+the next line show local variable f which is d*e
+8
+the next line show local variable c which is e/d
+8
+2
+assign 1 to a[0]
+The next line will show the value in a[0]
+1
+assign 10 to a[1]
+The next line will show the value in a[1]
+10
+assign 1 to a[2]
+The next line will show the value in a[2]
+100
