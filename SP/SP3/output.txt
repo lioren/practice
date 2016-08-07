@@ -1,0 +1,3 @@
+1th cluster average is:50.32
+2th cluster average is:48.99
+The sum is:49655

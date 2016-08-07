@@ -1,0 +1,7 @@
+This file tests the nested paired tags.
+For example, algorithm should be algorithm.
+For example, ALGORITHM should be ALGORITHM.
+For example, ALGORITHM should be Algorithm.
+TURING MACHINE.
+turing machinE.
+a TURING MACHINE.
